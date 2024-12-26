@@ -55,6 +55,3 @@ To run this project, you'll need the following Python packages:
 ## Notes
 - The script limits fetched tweets to a default count of 200. You can adjust this in the `get_tweets` function.
 - Ensure your Twitter Developer account is approved to access the API.
-
-## License
-This project is open-source and available for use under the MIT License.
